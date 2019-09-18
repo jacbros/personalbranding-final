@@ -1,0 +1,25 @@
+/*
+Theme Name: OceanWP Child
+Theme URI: https://oceanwp.org/
+Description: OceanWP WordPress child theme.
+Author: Jakob F. Ottosen
+Author URI: https://oceanwp.org/
+Template: oceanwp
+Version: 1.0
+*/
+
+html body{
+    background-color:#FBFBFB;
+}
+.elementor-widget-container .elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image {
+    padding-right: 25px;
+}
+.elementor-row .elementor-element-f714708 > .elementor-element-populated {
+    padding: 35px 40px 35px 40px !important;
+}
+.elementor-row .elementor-element-73dd689 > .elementor-element-populated {
+    padding: 35px 40px 35px 40px !important;
+}
+.elementor-row .elementor-element-a60ef4a > .elementor-element-populated {
+    padding: 35px 40px 35px 40px !important;
+}

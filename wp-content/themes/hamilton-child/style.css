@@ -1,0 +1,32 @@
+/*
+Theme Name: Hamilton Child
+Description: Hamilton Child Theme
+Template: hamilton
+Text Domain: hamiltonchild
+
+
+*/
+
+body{
+    background-color: pink;
+}
+.site-name{
+    font-size:40px;
+}
+.nav-toggle .bar{
+    width:38px;
+    height:8px;
+}
+.nav-toggle .bar:nth-child(1) {
+    margin-top: -19px;
+}
+.nav-toggle .bar:nth-child(2) {
+    margin-top: -7px;
+}
+.nav-toggle .bar:nth-child(3) {
+    margin-top: 5px;
+}
+
+.site-footer p + p {
+    letter-spacing: 10px !important;
+}
